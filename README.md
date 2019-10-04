@@ -1,1 +1,1 @@
-# AB_Testing
+# This project goes over an example of an A/B Testing
